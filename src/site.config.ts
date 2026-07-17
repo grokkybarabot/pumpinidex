@@ -16,7 +16,7 @@ export const CONFIG = {
 
   // Links. Leave "" to hide a button.
   pumpFunUrl: "", // e.g. "https://pump.fun/coin/YOUR_CA" — filled after launch
-  xUrl: "",
+  xUrl: "https://x.com/PumpIndexsol",
   telegramUrl: "",
 
   // RPC endpoint used for live reads. The public endpoint works but is
