@@ -12,10 +12,10 @@ export const CONFIG = {
 
   // Paste your coin's mint address (the CA from pump.fun) here once live.
   // Leave empty ("") before launch — the site shows "Launching soon".
-  mint: "",
+  mint: "Dj4nZHe1xodtArq29aWc9Zv1nse6CE1pRzwGZoc7pump",
 
   // Links. Leave "" to hide a button.
-  pumpFunUrl: "", // e.g. "https://pump.fun/coin/YOUR_COIN" — filled after launch
+  pumpFunUrl: "", // e.g. "https://pump.fun/coin/Dj4nZHe1xodtArq29aWc9Zv1nse6CE1pRzwGZoc7pump" — filled after launch
   xUrl: "https://x.com/PumpIndexsol",
   telegramUrl: "",
 
